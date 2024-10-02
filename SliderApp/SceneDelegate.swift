@@ -2,8 +2,7 @@
 //  SceneDelegate.swift
 //  SliderApp
 //
-//  Created by Benjamin Müller on 04.02.20.
-//  Copyright © 2020 Benjamin Müller. All rights reserved.
+//  Created BM on 04.02.20.
 //
 
 import UIKit
